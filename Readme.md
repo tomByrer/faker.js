@@ -329,6 +329,11 @@ See: https://github.com/pateketrueke/json-schema-faker/
 Run faker generators from Command Line.
 See: https://github.com/lestoni/faker-cli
 
+### GraphQL
+
+Mock or extend your GraphQL API with faked data.
+See: https://github.com/APIs-guru/graphql-faker
+
 **Want to see your project added here? Let us know!**
 
 ### Meteor
